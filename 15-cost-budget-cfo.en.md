@@ -306,4 +306,6 @@ See you next chapter.
 
 ---
 
-> **Bilingual notice**: This is the English translation of the original Chinese article. For the original Chinese version, please refer to the source file `15-cost-budget-cfo.md`. Some industry jargon (QE, FMEA, CFO, MAU, ARR, etc.) is kept in English by convention.
+> **Reading the Chinese original?** See [15-cost-budget-cfo.md](./15-cost-budget-cfo.md)
+> **Part of**: Season 1 · AI PM Workflow Reconstruction · 26 essays
+> **Author**: Cai Yiwen (蔡逸雯) · 8 years in QE → AI PM

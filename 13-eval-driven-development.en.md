@@ -309,4 +309,6 @@ WeChat Official Account 「蔡逸雯」.
 
 ---
 
-> *This article was originally published in Chinese on the WeChat Official Account 「蔡逸雯」 and translated into English by the author. If discrepancies arise, the Chinese original prevails.*
+> **Reading the Chinese original?** See [13-eval-driven-development.md](./13-eval-driven-development.md)
+> **Part of**: Season 1 · AI PM Workflow Reconstruction · 26 essays
+> **Author**: Cai Yiwen (蔡逸雯) · 8 years in QE → AI PM

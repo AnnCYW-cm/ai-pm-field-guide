@@ -306,4 +306,6 @@ See you next chapter.
 
 ---
 
-> **Bilingual notice**: This is the English translation of the original Chinese article. For the original Chinese version, please refer to the source file `18-gradient-strategy.md`. Company/product/KOL names (OpenAI, GPT-4o, ChatGPT, Notion, Braintrust, DoorDash, Hamel Husain, Knight Capital, Gemini, etc.), dates, and industry terms (canary, shadow eval, regression eval, sycophancy, LLM judge) are kept in their canonical English form.
+> **Reading the Chinese original?** See [18-gradient-strategy.md](./18-gradient-strategy.md)
+> **Part of**: Season 1 · AI PM Workflow Reconstruction · 26 essays
+> **Author**: Cai Yiwen (蔡逸雯) · 8 years in QE → AI PM
